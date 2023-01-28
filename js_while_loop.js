@@ -35,6 +35,8 @@ while(token1 <= 20){
     token1 += 2;
 }
 
+// Odd check for while loop uses
+
 var token2 = 1;
 while(token2 <= 20){
     console.log(token2);
